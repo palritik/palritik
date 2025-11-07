@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @palritik
-- 👀 I’m interested in Web Development and Software Development
-- 🌱 I’m currently learning JavaScript (react.js , Node.js , mangoDB)
+- 👀 I’m interested in Web Development, Business Development and Software Development
+- 🌱 I’m have learned Java, Html, Css, Bootstrap, JSP, Mysql 
 - 💞️ I’m looking to collaborate IT startup and Companies.
 
 <!---
